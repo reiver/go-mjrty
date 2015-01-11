@@ -2,10 +2,8 @@
 
 **go-mjrty** is a Go library which implements of the **mjrty** algorithm.
 
-The **mjrty** algorithm figures out what is the **majority** of a sequence of items in a **single pass**.
-
-And thus does this in linear time complexity (and constant space complexity) --
-in O(n) time (and O(1) space).
+The **mjrty** algorithm figures out what is the **majority** of a sequence of items in a **single pass**,
+in **O(n) time** and **O(1) space** -- in **linear time complexity** and **constant space complexity**.
 
 This makes the **mjrty** suitable for some types of data streaming.
 
