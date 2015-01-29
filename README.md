@@ -12,7 +12,7 @@ So in cases where the data stream is expected to be *infinite*, special care mus
 
 **NOTE that if a sequence does NOT have a majority item, then what the mjrty algorithm returns is nonsense.**
 This is just how the algorithm works.
-(The is a trade off for having an algorithm that can calculate this in a single pass)
+(This is a trade off for having an algorithm that can calculate this in a single pass)
 
 ## Description
 
